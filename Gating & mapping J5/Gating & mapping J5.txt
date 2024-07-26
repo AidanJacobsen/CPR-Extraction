@@ -1,0 +1,8 @@
+Gating & mapping J5 -650~650nA per 0.5nA filtered_001.DAT	06/19/24 00:03	V_bg=50.00060->-50.01300(201pts)[V]	Vdc_adc=matrix[x,(-0.650000->0.650000)[201x2601][mV]	delay=1.0[s]	""
+Gating & mapping J5 -650~650nA per 0.5nA filtered_002.DAT	06/19/24 00:21	V_bg=-50.01290->50.00240(201pts)[V]	Vdc_adc=matrix[x,(-0.650000->0.650000)[201x2601][mV]	delay=1.0[s]	""
+Gating & mapping J5 -650~650nA per 0.5nA filtered_003.DAT	06/19/24 01:34	Bz=-0.01500->0.01499(594pts)[T]	Vdc_adc=matrix[x,(-0.650000->0.650000)[594x2601][mV]	delay=1.0[s]	""
+Gating & mapping J5 -650~650nA per 0.5nA filtered_004.DAT	06/19/24 02:46	Bz=0.01500->-0.01499(592pts)[T]	Vdc_adc=matrix[x,(-0.650000->0.650000)[592x2601][mV]	delay=1.0[s]	""
+Gating & mapping J5 -650~650nA per 0.5nA filtered_005.DAT	06/19/24 04:00	Bz=-0.01500->0.01499(592pts)[T]	Vdc_adc=matrix[x,(-0.650000->0.650000)[592x2601][mV]	delay=1.0[s]	""
+Gating & mapping J5 -650~650nA per 0.5nA filtered_006.DAT	06/19/24 05:11	Bz=0.01500->-0.01499(594pts)[T]	Vdc_adc=matrix[x,(-0.650000->0.650000)[594x2601][mV]	delay=1.0[s]	""
+Gating & mapping J5 -650~650nA per 0.5nA filtered_007.DAT	06/19/24 06:25	Bz=-0.01500->0.01499(594pts)[T]	Vdc_adc=matrix[x,(-0.650000->0.650000)[594x2601][mV]	delay=1.0[s]	""
+Gating & mapping J5 -650~650nA per 0.5nA filtered_008.DAT	06/19/24 07:36	Bz=0.01500->-0.01499(590pts)[T]	Vdc_adc=matrix[x,(-0.650000->0.650000)[590x2601][mV]	delay=1.0[s]	""
